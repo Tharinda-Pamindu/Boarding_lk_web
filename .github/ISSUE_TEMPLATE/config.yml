@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Report a security vulnerability
+    url: https://github.com/Tharinda-Pamindu/Boarding_lk_web/security/advisories/new
+    about: Please report security issues privately, not as a public issue.
+  - name: 🚨 Report a scam or fraudulent listing
+    url: mailto:athulasiriproduction@gmail.com?subject=Reporting%20Suspicious%20Boarding%20Listing
+    about: Fake ads, advance-money scams and suspicious landlords should be reported to the support team, not on GitHub.
